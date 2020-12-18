@@ -5,7 +5,7 @@
 # --------------------------------------------- #
 
 # Telegram
-token = '<YOUR BOT TOKEN>'      # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+token = '1350631111:AAFebP9c4vUMtI7RSHQx5T2v3pFm2OdlGPg'      # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 # MySQL Database
 mysql_host = 'localhost'
